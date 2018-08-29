@@ -21,7 +21,7 @@ class CircuitBlock {
 
    Return:
    remaining theta_list
-   * @param qureg
+   * @param {Qureg} qureg
    * @param theta_list
    */
   call(qureg, theta_list) {
